@@ -8,3 +8,4 @@ Sample programming interview questions
 - [JANE STREET - Daily Coding Problem: Problem #5](jane_street_16_06_2020/jane_street_16_06_2020.txt) **[Medium]**
 - [GOOGLE - Daily Coding Problem: Problem #6](google_17_06_2020/google_17_06_2020.txt) **[Hard]**
 - [FACEBOOK - Daily Coding Problem: Problem #7](facebook_18_06_2020/facebook_18_06_2020.txt) **[Medium]**
+- [GOOGLE - Daily Coding Problem: Problem #8](google_19_06_2020/google_19_06_2020.txt) **[Easy]**
