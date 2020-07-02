@@ -12,3 +12,4 @@ Sample programming interview questions
 - [AIRBNB - Daily Coding Problem: Problem #9](airbnb_20_06_2020/airbnb_20_06_2020.txt) **[Hard]**
 - [APPLE - Daily Coding Problem: Problem #10](apple_21_06_2020/apple_21_06_2020.txt) **[Medium]**
 - [TWITTER - Daily Coding Problem: Problem #11](twitter_22_06_2020/twitter_22_06_2020.txt) **[Medium]**
+- [AMAZON - Daily Coding Problem: Problem #12](amazon_23_06_2020/amazon_23_06_2020.txt) **[Hard]**
